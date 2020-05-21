@@ -1,4 +1,7 @@
-package ru.sbt.mipt.oop;
+package ru.sbt.mipt.oop.interior;
+
+import ru.sbt.mipt.oop.interior.Door;
+import ru.sbt.mipt.oop.interior.Light;
 
 import java.util.Collection;
 

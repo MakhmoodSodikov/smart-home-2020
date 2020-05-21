@@ -1,4 +1,4 @@
-package ru.sbt.mipt.oop;
+package ru.sbt.mipt.oop.types;
 
 public enum CommandType {
     LIGHT_OFF
